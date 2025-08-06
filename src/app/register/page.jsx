@@ -25,6 +25,7 @@ const Register = () => {
     e.preventDefault();
     // Handle registration logic here
     console.log(formData);
+    alert("Sign up is ongoing")
   };
 
   return (
